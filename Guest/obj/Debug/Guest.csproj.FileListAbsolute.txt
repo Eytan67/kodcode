@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Guest\obj\Debug\Guest.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Guest\obj\Debug\Guest.Form1.resources
+C:\Users\user\source\repos\Guest\obj\Debug\Guest.Properties.Resources.resources
+C:\Users\user\source\repos\Guest\obj\Debug\Guest.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Guest\obj\Debug\Guest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Guest\bin\Debug\Guest.exe.config
+C:\Users\user\source\repos\Guest\bin\Debug\Guest.exe
+C:\Users\user\source\repos\Guest\bin\Debug\Guest.pdb
+C:\Users\user\source\repos\Guest\obj\Debug\Guest.exe
+C:\Users\user\source\repos\Guest\obj\Debug\Guest.pdb
+C:\Users\user\source\repos\Guest\obj\Debug\Guest.frmCategory.resources

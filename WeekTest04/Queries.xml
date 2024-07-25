@@ -1,0 +1,30 @@
+<Queries>
+  <Query>
+    <Day>ראשון</Day>
+    <DayMonth>1</DayMonth>
+    <Month>מרחשוון</Month>
+    <Year>תשפ_ד</Year>
+    <Result>באחד בשבת יום אחד לירח מרחשוון שנת חמשת אלפים ושבע מאות ושמנים וארבע לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>שלישי</Day>
+    <DayMonth>4</DayMonth>
+    <Month>טבת</Month>
+    <Year>תשפ_ח</Year>
+    <Result>בשלישי בשבת ארבעה ימים לירח טבת שנת חמשת אלפים ושבע מאות ושמנים ושמנה לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>רביעי</Day>
+    <DayMonth>4</DayMonth>
+    <Month>טבת</Month>
+    <Year>תשפ_ח</Year>
+    <Result>ברביעי בשבת ארבעה ימים לירח טבת שנת חמשת אלפים ושבע מאות ושמנים ושמנה לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>שלישי</Day>
+    <DayMonth>5</DayMonth>
+    <Month>ניסן</Month>
+    <Year>תשפ_ו</Year>
+    <Result>בשלישי בשבת חמשה ימים לירח ניסן שנת חמשת אלפים ושבע מאות ושמנים ושש לבריאת העולם</Result>
+  </Query>
+</Queries>

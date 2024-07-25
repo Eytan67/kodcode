@@ -1,0 +1,1 @@
+﻿select GuestName from Guests

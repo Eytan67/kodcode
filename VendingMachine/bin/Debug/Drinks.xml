@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Drinks>
+  <Drink>
+    <Name>dfghjk</Name>
+    <Suger>0.5</Suger>
+    <Milk>0.5</Milk>
+    <Cocoa>1</Cocoa>
+    <Coffee>1.5</Coffee>
+    <Price>2</Price>
+  </Drink>
+  <Drink>
+    <Name>A</Name>
+    <Suger>0.5</Suger>
+    <Milk>1.5</Milk>
+    <Cocoa>0.5</Cocoa>
+    <Coffee>0.5</Coffee>
+    <Price>4</Price>
+  </Drink>
+</Drinks>

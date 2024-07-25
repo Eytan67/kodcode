@@ -1,0 +1,2 @@
+﻿select topicName
+from Topic

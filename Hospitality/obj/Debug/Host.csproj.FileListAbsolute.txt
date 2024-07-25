@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Hospitality\bin\Debug\Hospitality.exe.config
+C:\Users\user\source\repos\Hospitality\bin\Debug\Hospitality.exe
+C:\Users\user\source\repos\Hospitality\bin\Debug\Hospitality.pdb
+C:\Users\user\source\repos\Hospitality\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Hospitality\obj\Debug\Hospitality.Form1.resources
+C:\Users\user\source\repos\Hospitality\obj\Debug\Hospitality.Properties.Resources.resources
+C:\Users\user\source\repos\Hospitality\obj\Debug\Host.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Hospitality\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Hospitality\obj\Debug\Hospitality.exe
+C:\Users\user\source\repos\Hospitality\obj\Debug\Hospitality.pdb
+C:\Users\user\source\repos\Hospitality\obj\Debug\Hospitality.ShowOrdersRorm.resources

@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Student\obj\Debug\Student.forms.HomeForm.resources
+C:\Users\user\source\repos\Student\obj\Debug\Student.Properties.Resources.resources
+C:\Users\user\source\repos\Student\obj\Debug\Student.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Student\bin\Debug\Student.exe.config
+C:\Users\user\source\repos\Student\bin\Debug\Student.exe
+C:\Users\user\source\repos\Student\bin\Debug\Student.pdb
+C:\Users\user\source\repos\Student\obj\Debug\Student.exe
+C:\Users\user\source\repos\Student\obj\Debug\Student.pdb
+C:\Users\user\source\repos\Student\obj\Debug\Student.PaymentForm.resources

@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\employee\bin\Debug\employee.exe.config
+C:\Users\user\source\repos\employee\bin\Debug\employee.exe
+C:\Users\user\source\repos\employee\bin\Debug\employee.pdb
+C:\Users\user\source\repos\employee\obj\Debug\employee.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\employee\obj\Debug\employee.Properties.Resources.resources
+C:\Users\user\source\repos\employee\obj\Debug\employee.csproj.GenerateResource.cache
+C:\Users\user\source\repos\employee\obj\Debug\employee.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\employee\obj\Debug\employee.exe
+C:\Users\user\source\repos\employee\obj\Debug\employee.pdb
+C:\Users\user\source\repos\employee\obj\Debug\employee.form1.resources
+C:\Users\user\source\repos\employee\obj\Debug\employee.SearchPopup.resources

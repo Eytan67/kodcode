@@ -1,0 +1,1 @@
+﻿select debt from Student
